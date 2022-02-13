@@ -20,7 +20,7 @@ I am brand new to coding and I've become fairly passionate about it. I'm excited
 
 ### Screenshot
 
-![](C:\Users\Kaitlyn\Documents\Coding Practice\Qr-Code-Component-Challenge\qr-code-component-main\images\Solution Image.png)
+![](images/Solution Image.png)
 
 
 ### Links
