@@ -20,7 +20,7 @@ I am brand new to coding and I've become fairly passionate about it. I'm excited
 
 ### Screenshot
 
-![](images/Solution Image.png)
+![](images/Solution%20Image.png)
 
 
 ### Links
