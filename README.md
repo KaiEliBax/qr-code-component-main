@@ -48,4 +48,4 @@ I need to work on becoming more efficient with CSS. 90% of the time I am trying 
 
 ## Author
 
-- Frontend Mentor - [@kaielibax](https://www.frontendmentor.io/profile/KaiEliBax)
+- Frontend Mentor - [@KaiEliBax](https://www.frontendmentor.io/profile/KaiEliBax)
